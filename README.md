@@ -39,7 +39,7 @@ This project is part of my **Front-End learning practice**, inspired by a challe
 
 ## 🚀 Live Demo
 
--   (Live Demo)
+-   [Live Demo](https://baselelsrogy.github.io/bento-grid/)
 
 ## 🧑‍💻 Author
 
